@@ -5,6 +5,7 @@
 - <a href="https://github.com/openscope/openscope/issues/1389" target="_blank">#1389</a> - Prevent unfair penalty at KDCA on IRONS7 arrivals by deactivating R6601B/C
 - <a href="https://github.com/openscope/openscope/issues/1218" target="_blank">#1218</a> - Ensure proper removal of aircraft who collide with terrain/traffic
 - <a href="https://github.com/openscope/openscope/issues/1513" target="_blank">#1513</a> - Add missing fleets to AFR/LDM airlines that were crashing EDDM/EIDW
+- <a href="https://github.com/openscope/openscope/issues/1398" target="_blank">#1398</a> - Fix go-arounds from aircraft with low descent rates
 
 ### Enhancements & Refactors
 - <a href="https://github.com/openscope/openscope/issues/1486" target="_blank">#1486</a> - Update AFL airline
@@ -16,6 +17,7 @@
 - <a href="https://github.com/openscope/openscope/issues/1471" target="_blank">#1471</a> - Change all airport guide links to open in new tab
 - <a href="https://github.com/openscope/openscope/issues/1514" target="_blank">#1514</a> - Reintroduce Malvinas Argentinas Ushuaia Airport (SAWH)
 - <a href="https://github.com/openscope/openscope/issues/1381" target="_blank">#1381</a> -  Change all airport names in airport loadList to the official English name according to Jeppesen charts
+- <a href="https://github.com/openscope/openscope/issues/242" target="_blank">#242</a> - Update KJFK to AIRAC 2002
 
 
 # 6.15.1 (December 2, 2019)

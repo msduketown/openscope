@@ -365,7 +365,7 @@ window.AIRPORT_LOAD_LIST = (function() { // eslint-disable-line wrap-iife
         // },
         {
             icao: 'lipz',
-            level: 'medium',
+            level: 'easy',
             name: 'Venice Marco Polo Airport',
             premium: false
         },
